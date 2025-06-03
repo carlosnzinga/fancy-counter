@@ -1,7 +1,4 @@
 
-
-
-
 import Board from './components/count/Board'
 
 
